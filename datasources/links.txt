@@ -1,0 +1,3 @@
+https://help.tableau.com/samples/en-us/bookshop/Bookshop.xlsx
+https://www.tableau.com/sites/default/files/pages/tds_sample_data_all.xlsx
+http://www.tableau.com/sites/default/files/pages/sample-superstore-subset-excel.xlsx
